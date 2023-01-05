@@ -39,7 +39,6 @@
 
 
 
-<div align=center>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonyoung0207&show_icons=true&theme=merko)
-</div>
 
+
+​    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonyoung0207&show_icons=true&theme=merko)
