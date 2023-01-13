@@ -41,4 +41,4 @@
 
 
 
-​    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonyoung0207&show_icons=true&theme=merko)
+​    ![Wonyoung Ahn's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wonyoung0207&show_icons=true&theme=merko&bg_color=00000000)
